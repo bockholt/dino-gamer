@@ -1,2 +1,2 @@
 Check video for demo ;)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://github.com/bockholt/dino-gamer/blob/master/demo.mp4)](https://github.com/bockholt/dino-gamer/blob/master/demo.mp4)
