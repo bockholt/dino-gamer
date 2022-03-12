@@ -17,7 +17,7 @@ numpy==1.19.0
 opencv-python==4.2.0.34
 packaging==20.3
 pep517==0.8.2
-Pillow==7.2.0
+Pillow==9.0.1
 progress==1.5
 PyAutoGUI==0.9.50
 PyGetWindow==0.0.8
